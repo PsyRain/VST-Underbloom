@@ -15,6 +15,8 @@
 
 ![Underbloom — интерфейс плагина](assets/preview-v1.png)
 
+<video src="https://github.com/PsyRain/VST-Underbloom/raw/master/assets/Underbloom_demo.mp4" controls width="100%"></video>
+
 ---
 
 ## ✨ Режимы
@@ -72,4 +74,4 @@ Standalone-версия работает без DAW.
 Создано с помощью [JUCE](https://juce.com).
 Сторонние компоненты и уведомления — см. [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt).
 
-© 2026 Алексей Шаповалов / Psychedelic Rain
+© 2026 Psychedelic Rain
