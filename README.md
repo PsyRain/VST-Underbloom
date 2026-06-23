@@ -15,7 +15,7 @@
 
 ![Underbloom — интерфейс плагина](assets/preview-v1.png)
 
-<video src="https://github.com/PsyRain/VST-Underbloom/raw/master/assets/Underbloom_demo.mp4" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/6c225329-11ee-474e-a114-2cf5075717b8" controls width="100%"></video>
 
 ---
 
