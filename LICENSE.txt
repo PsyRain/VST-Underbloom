@@ -1,0 +1,61 @@
+Underbloom (Подцветень) — End-User Licence Agreement / Лицензионное соглашение
+Copyright (c) 2026 Alexey Shapovalov (Psychedelic Rain). All rights reserved.
+
+=============================== ENGLISH ===============================
+
+Underbloom is freeware. You may use it free of charge for any purpose,
+including commercial music production.
+
+YOU MAY:
+- Install and use Underbloom on any number of computers that you own or
+  control.
+- Use it to create audio in personal and commercial projects, with no
+  obligation and no royalties on the music you make.
+- Share the original, unmodified installer/package free of charge, as long
+  as this licence and all credits remain intact.
+
+YOU MAY NOT:
+- Sell, rent, sub-licence or charge money for Underbloom itself, or bundle
+  it into a paid product, without prior written permission from the author.
+- Modify, reverse-engineer, decompile or disassemble the plugin, or
+  distribute modified versions.
+- Remove or alter any copyright, author, or third-party notices.
+
+NO WARRANTY: The software is provided "AS IS", without warranty of any kind,
+express or implied. To the maximum extent permitted by law, the author shall
+not be liable for any damages arising from the use of this software.
+
+Built with JUCE. Includes third-party components — see THIRD_PARTY_NOTICES.txt.
+
+Contact: psychedelic.rain@gmail.com
+
+=============================== РУССКИЙ ===============================
+
+Underbloom — бесплатное программное обеспечение (freeware). Его можно
+использовать бесплатно в любых целях, включая коммерческое производство музыки.
+
+МОЖНО:
+- Устанавливать и использовать Underbloom на любом числе принадлежащих вам
+  компьютеров.
+- Создавать звук в личных и коммерческих проектах без обязательств и
+  отчислений за созданную музыку.
+- Бесплатно делиться оригинальным, неизменённым пакетом/инсталлятором, при
+  условии сохранения этой лицензии и всех упоминаний авторства.
+
+НЕЛЬЗЯ:
+- Продавать, сдавать в аренду, сублицензировать Underbloom или взимать за него
+  плату, а также включать его в платный продукт без письменного разрешения
+  автора.
+- Изменять, реверс-инжинирить, декомпилировать или дизассемблировать плагин,
+  а также распространять изменённые версии.
+- Удалять или изменять уведомления об авторских правах, авторе и сторонних
+  компонентах.
+
+БЕЗ ГАРАНТИЙ: ПО предоставляется «КАК ЕСТЬ», без каких-либо явных или
+подразумеваемых гарантий. В максимально допустимой законом степени автор не
+несёт ответственности за любой ущерб, возникший в результате использования.
+
+Создано с помощью JUCE. Содержит сторонние компоненты — см.
+THIRD_PARTY_NOTICES.txt.
+
+Контакт: psychedelic.rain@gmail.com

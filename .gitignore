@@ -1,0 +1,35 @@
+# Публичный репозиторий-витрина: ИСХОДНЫЙ КОД СЮДА НЕ ЗАЛИВАЕТСЯ.
+# Этот .gitignore — страховка, чтобы случайно не попал код/сборка.
+
+# Код и сборка
+Source/
+JUCE/
+Tools/
+build/
+build-*/
+*.cpp
+*.h
+*.hpp
+CMakeLists.txt
+CMakePresets.json
+CMakeCache.txt
+CMakeFiles/
+*.sln
+*.vcxproj*
+
+# Инсталляторные исходники / материалы UI
+forUI_installer/
+*.iss
+
+# Бинарные сборки (раздаются через Releases, а не в репозитории)
+*.exe
+*.vst3/
+*.dll
+*.lib
+*.exp
+*.zip
+
+# Системное
+Thumbs.db
+desktop.ini
+.DS_Store
