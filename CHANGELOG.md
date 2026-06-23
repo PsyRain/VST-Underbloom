@@ -19,7 +19,7 @@
 - Лицензия freeware (двуязычный EULA EN/RU).
 - Уведомления о сторонних компонентах (`THIRD_PARTY_NOTICES.txt`).
 - Иконка кассеты у Standalone-версии.
-- Графический инсталлятор (Inno Setup 6): выбор папки VST3, Standalone + ярлык.
+- Графический инсталлятор (Inno Setup): выбор папки VST3, Standalone + ярлык.
 
 ---
 
